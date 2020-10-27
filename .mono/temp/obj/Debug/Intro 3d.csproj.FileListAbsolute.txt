@@ -1,0 +1,6 @@
+D:\appTut\GoDot\Intro3D\.mono\temp\obj\Debug\Intro 3d.csprojAssemblyReference.cache
+D:\appTut\GoDot\Intro3D\.mono\temp\obj\Debug\Intro 3d.csproj.CoreCompileInputs.cache
+D:\appTut\GoDot\Intro3D\.mono\temp\bin\Debug\Intro 3d.dll
+D:\appTut\GoDot\Intro3D\.mono\temp\bin\Debug\Intro 3d.pdb
+D:\appTut\GoDot\Intro3D\.mono\temp\obj\Debug\Intro 3d.dll
+D:\appTut\GoDot\Intro3D\.mono\temp\obj\Debug\Intro 3d.pdb

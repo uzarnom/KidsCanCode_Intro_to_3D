@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro 3d", "Intro 3d.csproj", "{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{F1C1F139-A171-4BF0-8093-EDE0B3753F6C}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
